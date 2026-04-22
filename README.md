@@ -4,7 +4,7 @@ A modern, high-performance Single-Page Application (SPA) portfolio.
 
 ## Features
 
-- **Premium Design**: Dark + Saffron theme with modern glassmorphism effects.
+- **Personal Design**: Dark + Saffron theme with modern glassmorphism effects.
 - **Responsive Layout**: Optimized for all devices, maintaining a clean and professional appearance.
 - **Interactive UI**: Project showcases with tech stack visualizations, live demos, and source code links.
 - **Contact Section**: Interactive grid of action cards for easy communication.
